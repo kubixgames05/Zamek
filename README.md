@@ -19,6 +19,11 @@ Automatyzacja otwierania drzwi w serwerowni
 ### Podłączenie Arduino
 
 1. Pobierz projekt 
+- Za pomocą [linka](https://github.com/kubixgames05/Zamek/archive/refs/heads/master.zip)
+- Za pomocą komendy
+```shell
+git clone https://github.com/kubixgames05/Zamek --recursive
+```
 2. Pobierz i zainsstaluj [Arduino IDE](https://www.arduino.cc/en/software) 
 3. Otwórz projekt i doinstaluj potrzebne biblioteki
 4. Edytuj kod zmieniając domyślne hasło
